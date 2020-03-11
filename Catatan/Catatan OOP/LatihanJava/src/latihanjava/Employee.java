@@ -12,8 +12,8 @@ package latihanjava;
 public class Employee {
     
     public void sendEmail(String email, String title){
-        System.out.println("Sending email to" + email +
-                           "with title" + title);
+        System.out.println("Sending email to " + email +
+                           " with title " + title);
         
     }
 }
